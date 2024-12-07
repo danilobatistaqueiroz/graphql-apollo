@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nome": "Ana Torre",
+      "ativo": true,
+      "email": "a@a.com",
+      "role": 1
+    },
+    {
+      "id": "2",
+      "nome": "Gabriel Costa",
+      "ativo": true,
+      "email": "g@g.com",
+      "role": 1
+    },
+    {
+      "id": "3",
+      "nome": "Flavia Lins",
+      "ativo": true,
+      "email": "f@f.com",
+      "role": 3
+    },
+    {
+      "id": "4",
+      "nome": "Carlos Marques",
+      "ativo": true,
+      "email": "c@c.com",
+      "role": 2
+    },
+    {
+      "id": "5",
+      "nome": "Silvia Souza",
+      "ativo": true,
+      "email": "s@s.com",
+      "role": 2
+    },
+    {
+      "id": "6",
+      "nome": "Marcia Silva",
+      "ativo": true,
+      "email": "m@m.com",
+      "role": 2
+    },
+    {
+      "id": "7",
+      "nome": "Laura Barros",
+      "ativo": true,
+      "email": "l@l.com",
+      "role": "2"
+    },
+    {
+      "id": "8",
+      "nome": "Laura Barros",
+      "ativo": true,
+      "email": "l@l.com",
+      "role": "2",
+      "createdAt": "2024-12-07T00:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "nome": "Mariana de Marques",
+      "ativo": false,
+      "email": "mm@m.com",
+      "role": "3"
+    },
+    {
+      "id": "10",
+      "nome": "Mariana Marques",
+      "ativo": true,
+      "email": "mm@m.com",
+      "role": "2",
+      "createdAt": "2024-12-07T00:00:00.000Z"
+    }
+  ],
+  "roles": [
+    {
+      "id": "1",
+      "type": "ESTUDANTE"
+    },
+    {
+      "id": "2",
+      "type": "DOCENTE"
+    },
+    {
+      "id": "3",
+      "type": "COORDENACAO"
+    }
+  ]
+}
